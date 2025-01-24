@@ -17,8 +17,6 @@ local Tabs = {
     Player = Window:AddTab({ Title = "PvP", Icon = "baby" }),
     Teleport = Window:AddTab({ Title = "Teleport", Icon = "palmtree" }),
     Fruit = Window:AddTab({ Title = "Fruit", Icon = "cherry" }),
-    Raid = Window:AddTab({ Title = "Raid", Icon = "swords" }),
-    Race = Window:AddTab({ Title = "Race", Icon = "chevrons-right" }),
     Shop = Window:AddTab({ Title = "Shop", Icon = "shopping-cart" }),
 	Misc = Window:AddTab({ Title = "Misc", Icon = "list-plus" }),
 }
